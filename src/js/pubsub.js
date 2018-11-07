@@ -1,4 +1,5 @@
 ﻿// modified from the url http://davidwalsh.name/pubsub-javascript
+// test
 
 if (!Array.prototype.forEach) {
 
